@@ -1,9 +1,13 @@
-26074
-87/home/mahmoud/Desktop/Python/HTML_CSS/Product-Color-Picker Custom-Widget/src/index.html1670794453078853767 0
+26086
+128/home/mahmoud/Desktop/Python/HTML_CSS/Product-Color-Picker Custom-Widget/dist/Product-Color-Picker Custom-Widget.59712999.js.map1670806419479810575 0
+95/home/mahmoud/Desktop/Python/HTML_CSS/Product-Color-Picker Custom-Widget/dist/index.b71ea927.js1670806419471810568 0
+100/home/mahmoud/Desktop/Python/HTML_CSS/Product-Color-Picker Custom-Widget/dist/index.2103b895.css.map1670806427263817493 0
+87/home/mahmoud/Desktop/Python/HTML_CSS/Product-Color-Picker Custom-Widget/src/index.html1670806122655545290 0
 104/home/mahmoud/Desktop/Python/HTML_CSS/Product-Color-Picker Custom-Widget/src/imgs/tshirt-svgrepo-com.svg1670792976122121000 0
+119/home/mahmoud/Desktop/Python/HTML_CSS/Product-Color-Picker Custom-Widget/src/imgs/Screenshot at 2022-12-12 02-53-18.png1670806399063792000 0
 93/home/mahmoud/Desktop/Python/HTML_CSS/Product-Color-Picker Custom-Widget/src/imgs/pattern.svg1670794164355280000 0
 116/home/mahmoud/Desktop/Python/HTML_CSS/Product-Color-Picker Custom-Widget/src/imgs/reshot-icon-t-shirt-V8GHN2DBYK.svg1670793012457768000 0
-81/home/mahmoud/Desktop/Python/HTML_CSS/Product-Color-Picker Custom-Widget/src/imgs1670794196962952680 1
+81/home/mahmoud/Desktop/Python/HTML_CSS/Product-Color-Picker Custom-Widget/src/imgs1670806466539852376 1
 76/home/mahmoud/Desktop/Python/HTML_CSS/Product-Color-Picker Custom-Widget/src1670795252270314068 1
 114/home/mahmoud/Desktop/Python/HTML_CSS/Product-Color-Picker Custom-Widget/node_modules/postcss-svgo/dist/lib/url.js1670791013816750136 0
 110/home/mahmoud/Desktop/Python/HTML_CSS/Product-Color-Picker Custom-Widget/node_modules/postcss-svgo/LICENSE-MIT1670791012912745043 0
@@ -823,6 +827,7 @@
 117/home/mahmoud/Desktop/Python/HTML_CSS/Product-Color-Picker Custom-Widget/node_modules/string.prototype.trimend/.nycrc1670791013308747274 0
 118/home/mahmoud/Desktop/Python/HTML_CSS/Product-Color-Picker Custom-Widget/node_modules/string.prototype.trimend/auto.js1670791013760749820 0
 124/home/mahmoud/Desktop/Python/HTML_CSS/Product-Color-Picker Custom-Widget/node_modules/string.prototype.trimend/.editorconfig1670791012828744569 0
+99/home/mahmoud/Desktop/Python/HTML_CSS/Product-Color-Picker Custom-Widget/dist/index.b71ea927.js.map1670806419479810575 0
 123/home/mahmoud/Desktop/Python/HTML_CSS/Product-Color-Picker Custom-Widget/node_modules/string.prototype.trimend/CHANGELOG.md1670791015360758837 0
 128/home/mahmoud/Desktop/Python/HTML_CSS/Product-Color-Picker Custom-Widget/node_modules/string.prototype.trimend/implementation.js1670791013952750902 0
 118/home/mahmoud/Desktop/Python/HTML_CSS/Product-Color-Picker Custom-Widget/node_modules/string.prototype.trimend/shim.js1670791014940756469 0
@@ -4234,7 +4239,7 @@
 115/home/mahmoud/Desktop/Python/HTML_CSS/Product-Color-Picker Custom-Widget/node_modules/object-inspect/test/values.js1670791016192763528 0
 116/home/mahmoud/Desktop/Python/HTML_CSS/Product-Color-Picker Custom-Widget/node_modules/object-inspect/util.inspect.js1670791015536759829 0
 129/home/mahmoud/Desktop/Python/HTML_CSS/Product-Color-Picker Custom-Widget/node_modules/@parcel/packager-js/node_modules/color-name1670794634008256218 1
-86/home/mahmoud/Desktop/Python/HTML_CSS/Product-Color-Picker Custom-Widget/src/main.scss1670793370436256970 0
+86/home/mahmoud/Desktop/Python/HTML_CSS/Product-Color-Picker Custom-Widget/src/main.scss1670806427179817419 0
 149/home/mahmoud/Desktop/Python/HTML_CSS/Product-Color-Picker Custom-Widget/node_modules/merge-source-map/node_modules/source-map/dist/source-map.min.js1670791016112763077 0
 110/home/mahmoud/Desktop/Python/HTML_CSS/Product-Color-Picker Custom-Widget/node_modules/fast-deep-equal/index.js1670791013528748513 0
 142/home/mahmoud/Desktop/Python/HTML_CSS/Product-Color-Picker Custom-Widget/node_modules/csso/node_modules/css-tree/lib/syntax/node/Combinator.js1670791016104763032 0
@@ -4316,6 +4321,7 @@
 97/home/mahmoud/Desktop/Python/HTML_CSS/Product-Color-Picker Custom-Widget/node_modules/has-bigints1670791014380753314 1
 125/home/mahmoud/Desktop/Python/HTML_CSS/Product-Color-Picker Custom-Widget/node_modules/es-abstract/2017/OrdinaryHasInstance.js1670791019124780067 0
 94/home/mahmoud/Desktop/Python/HTML_CSS/Product-Color-Picker Custom-Widget/node_modules/depd/lib1670791014160752074 1
+124/home/mahmoud/Desktop/Python/HTML_CSS/Product-Color-Picker Custom-Widget/dist/Product-Color-Picker Custom-Widget.59712999.js1670806419475810571 0
 99/home/mahmoud/Desktop/Python/HTML_CSS/Product-Color-Picker Custom-Widget/node_modules/depd/index.js1670791013584748829 0
 148/home/mahmoud/Desktop/Python/HTML_CSS/Product-Color-Picker Custom-Widget/node_modules/@parcel/optimizer-terser/node_modules/terser/tools/terser.d.ts1670794640000178210 0
 129/home/mahmoud/Desktop/Python/HTML_CSS/Product-Color-Picker Custom-Widget/node_modules/@mischnic/json-sourcemap/dist/index.js.flow1670794588472865095 0
@@ -10032,6 +10038,7 @@
 132/home/mahmoud/Desktop/Python/HTML_CSS/Product-Color-Picker Custom-Widget/node_modules/cssstyle/scripts/download_latest_properties.js1670791016948767791 0
 113/home/mahmoud/Desktop/Python/HTML_CSS/Product-Color-Picker Custom-Widget/node_modules/static-eval/example/eval.js1670791013332747409 0
 117/home/mahmoud/Desktop/Python/HTML_CSS/Product-Color-Picker Custom-Widget/node_modules/caniuse-lite/data/regions/BT.js1670791017024768219 0
+98/home/mahmoud/Desktop/Python/HTML_CSS/Product-Color-Picker Custom-Widget/dist/pattern.db4dd0ba.svg1670804177542906568 0
 155/home/mahmoud/Desktop/Python/HTML_CSS/Product-Color-Picker Custom-Widget/node_modules/@parcel/reporter-dev-server/node_modules/@parcel/utils/src/urlJoin.js1670794639712181950 0
 126/home/mahmoud/Desktop/Python/HTML_CSS/Product-Color-Picker Custom-Widget/node_modules/node-addon-api/doc/creating_a_release.md1670791016784766866 0
 90/home/mahmoud/Desktop/Python/HTML_CSS/Product-Color-Picker Custom-Widget/node_modules/atob1670791014816755771 1
@@ -12866,6 +12873,7 @@
 126/home/mahmoud/Desktop/Python/HTML_CSS/Product-Color-Picker Custom-Widget/node_modules/core-js/library/fn/string/virtual/sup.js1670791019836784085 0
 138/home/mahmoud/Desktop/Python/HTML_CSS/Product-Color-Picker Custom-Widget/node_modules/htmlparser2/node_modules/readable-stream/readable.js1670791016004762467 0
 114/home/mahmoud/Desktop/Python/HTML_CSS/Product-Color-Picker Custom-Widget/node_modules/core-js/fn/error/is-error.js1670791019560782527 0
+105/home/mahmoud/Desktop/Python/HTML_CSS/Product-Color-Picker Custom-Widget/dist/t-shirt-294078.9ea0b11c.svg1670805871415318378 0
 158/home/mahmoud/Desktop/Python/HTML_CSS/Product-Color-Picker Custom-Widget/node_modules/@parcel/reporter-dev-server/node_modules/@parcel/utils/src/collection.js1670794635224240349 0
 136/home/mahmoud/Desktop/Python/HTML_CSS/Product-Color-Picker Custom-Widget/node_modules/@babel/plugin-transform-modules-commonjs/README.md1670791013260747003 0
 157/home/mahmoud/Desktop/Python/HTML_CSS/Product-Color-Picker Custom-Widget/node_modules/@parcel/transformer-react-refresh-wrap/node_modules/color-name/index.js1670794633912257472 0
@@ -19590,6 +19598,7 @@
 131/home/mahmoud/Desktop/Python/HTML_CSS/Product-Color-Picker Custom-Widget/node_modules/@parcel/optimizer-svgo/node_modules/.bin/svgo1670794649020061690 0
 170/home/mahmoud/Desktop/Python/HTML_CSS/Product-Color-Picker Custom-Widget/node_modules/@parcel/transformer-posthtml/node_modules/@parcel/utils/test/input/config/config.cjs1670794634344251832 0
 118/home/mahmoud/Desktop/Python/HTML_CSS/Product-Color-Picker Custom-Widget/node_modules/es-abstract/2019/RegExpCreate.js1670791019212780564 0
+96/home/mahmoud/Desktop/Python/HTML_CSS/Product-Color-Picker Custom-Widget/dist/index.2103b895.css1670806427259817490 0
 126/home/mahmoud/Desktop/Python/HTML_CSS/Product-Color-Picker Custom-Widget/node_modules/core-js/modules/_object-keys-internal.js1670791017300769776 0
 159/home/mahmoud/Desktop/Python/HTML_CSS/Product-Color-Picker Custom-Widget/node_modules/@parcel/node-resolver-core/node_modules/@parcel/utils/src/PromiseQueue.js1670794639416185793 0
 113/home/mahmoud/Desktop/Python/HTML_CSS/Product-Color-Picker Custom-Widget/node_modules/static-module/test/fs_twice1670791016296764115 1
@@ -20070,6 +20079,7 @@
 137/home/mahmoud/Desktop/Python/HTML_CSS/Product-Color-Picker Custom-Widget/node_modules/caniuse-lite/data/features/css-container-queries.js1670791017304769799 0
 154/home/mahmoud/Desktop/Python/HTML_CSS/Product-Color-Picker Custom-Widget/node_modules/@parcel/optimizer-htmlnano/node_modules/entities/lib/encode.d.ts.map1670794637396212053 0
 116/home/mahmoud/Desktop/Python/HTML_CSS/Product-Color-Picker Custom-Widget/node_modules/es-abstract/2022/IsLessThan.js1670791018764778035 0
+100/home/mahmoud/Desktop/Python/HTML_CSS/Product-Color-Picker Custom-Widget/src/imgs/t-shirt-294078.svg1670805661107126679 0
 147/home/mahmoud/Desktop/Python/HTML_CSS/Product-Color-Picker Custom-Widget/node_modules/@parcel/optimizer-htmlnano/node_modules/posthtml/lib/index.js1670794637448211376 0
 114/home/mahmoud/Desktop/Python/HTML_CSS/Product-Color-Picker Custom-Widget/node_modules/es-abstract/2021/ToLength.js1670791019572782596 0
 120/home/mahmoud/Desktop/Python/HTML_CSS/Product-Color-Picker Custom-Widget/node_modules/es-abstract/2022/PromiseResolve.js1670791019180780383 0
@@ -20351,6 +20361,7 @@
 138/home/mahmoud/Desktop/Python/HTML_CSS/Product-Color-Picker Custom-Widget/node_modules/snapdragon/node_modules/source-map/lib/base64-vlq.js1670791016540765490 0
 140/home/mahmoud/Desktop/Python/HTML_CSS/Product-Color-Picker Custom-Widget/node_modules/jsdom/lib/jsdom/living/generated/HTMLMarqueeElement.js1670791017632771649 0
 130/home/mahmoud/Desktop/Python/HTML_CSS/Product-Color-Picker Custom-Widget/node_modules/snapdragon/node_modules/source-map/README.md1670791013512748423 0
+109/home/mahmoud/Desktop/Python/HTML_CSS/Product-Color-Picker Custom-Widget/dist/tshirt-svgrepo-com.004fb4b0.svg1670805611211080952 0
 133/home/mahmoud/Desktop/Python/HTML_CSS/Product-Color-Picker Custom-Widget/node_modules/snapdragon/node_modules/source-map/package.json1670791013052745832 0
 122/home/mahmoud/Desktop/Python/HTML_CSS/Product-Color-Picker Custom-Widget/node_modules/es-abstract/2021/AddToKeptObjects.js1670791016812767024 0
 133/home/mahmoud/Desktop/Python/HTML_CSS/Product-Color-Picker Custom-Widget/node_modules/snapdragon/node_modules/source-map/CHANGELOG.md1670791014500753990 0
@@ -22836,7 +22847,7 @@
 117/home/mahmoud/Desktop/Python/HTML_CSS/Product-Color-Picker Custom-Widget/node_modules/caniuse-lite/data/regions/IT.js1670791018512776613 0
 107/home/mahmoud/Desktop/Python/HTML_CSS/Product-Color-Picker Custom-Widget/node_modules/@parcel/hash/index.js1670794588492864821 0
 149/home/mahmoud/Desktop/Python/HTML_CSS/Product-Color-Picker Custom-Widget/node_modules/@parcel/optimizer-htmlnano/node_modules/domutils/lib/index.d.ts1670794636924218195 0
-86/home/mahmoud/Desktop/Python/HTML_CSS/Product-Color-Picker Custom-Widget/src/widget.js1670790094292335038 0
+86/home/mahmoud/Desktop/Python/HTML_CSS/Product-Color-Picker Custom-Widget/src/widget.js1670804864767630396 0
 135/home/mahmoud/Desktop/Python/HTML_CSS/Product-Color-Picker Custom-Widget/node_modules/@parcel/hash/parcel-hash.linux-arm-gnueabihf.node1670794588808860496 0
 130/home/mahmoud/Desktop/Python/HTML_CSS/Product-Color-Picker Custom-Widget/node_modules/@parcel/hash/parcel-hash.linux-x64-musl.node1670794589424852070 0
 129/home/mahmoud/Desktop/Python/HTML_CSS/Product-Color-Picker Custom-Widget/node_modules/@parcel/hash/parcel-hash.linux-x64-gnu.node1670794589384852617 0
@@ -25521,6 +25532,7 @@
 156/home/mahmoud/Desktop/Python/HTML_CSS/Product-Color-Picker Custom-Widget/node_modules/@parcel/optimizer-htmlnano/node_modules/css-select/lib/attributes.d.ts1670794638120202634 0
 127/home/mahmoud/Desktop/Python/HTML_CSS/Product-Color-Picker Custom-Widget/node_modules/purgecss/node_modules/commander/Readme.md1670791015144757619 0
 170/home/mahmoud/Desktop/Python/HTML_CSS/Product-Color-Picker Custom-Widget/node_modules/@parcel/optimizer-htmlnano/node_modules/css-select/lib/pseudo-selectors/aliases.d.ts1670794638088203050 0
+88/home/mahmoud/Desktop/Python/HTML_CSS/Product-Color-Picker Custom-Widget/dist/index.html1670806419471810568 0
 134/home/mahmoud/Desktop/Python/HTML_CSS/Product-Color-Picker Custom-Widget/node_modules/@parcel/runtime-js/lib/helpers/node/js-loader.js1670794638204201542 0
 174/home/mahmoud/Desktop/Python/HTML_CSS/Product-Color-Picker Custom-Widget/node_modules/@parcel/optimizer-htmlnano/node_modules/css-select/lib/pseudo-selectors/filters.d.ts.map1670794637092216008 0
 105/home/mahmoud/Desktop/Python/HTML_CSS/Product-Color-Picker Custom-Widget/node_modules/cipher-base/LICENSE1670791013604748942 0
@@ -25971,7 +25983,7 @@
 139/home/mahmoud/Desktop/Python/HTML_CSS/Product-Color-Picker Custom-Widget/node_modules/static-extend/node_modules/is-descriptor/node_modules1670791005960705924 1
 112/home/mahmoud/Desktop/Python/HTML_CSS/Product-Color-Picker Custom-Widget/node_modules/@babel/traverse/lib/hub.js1670791014776755545 0
 159/home/mahmoud/Desktop/Python/HTML_CSS/Product-Color-Picker Custom-Widget/node_modules/@parcel/optimizer-htmlnano/node_modules/entities/lib/encode-trie.d.ts.map1670794637332212885 0
-77/home/mahmoud/Desktop/Python/HTML_CSS/Product-Color-Picker Custom-Widget/dist1670794256950270288 1
+77/home/mahmoud/Desktop/Python/HTML_CSS/Product-Color-Picker Custom-Widget/dist1670806427263817493 1
 124/home/mahmoud/Desktop/Python/HTML_CSS/Product-Color-Picker Custom-Widget/node_modules/chrome-trace-event/dist/trace-event.js1670794587344880544 0
 153/home/mahmoud/Desktop/Python/HTML_CSS/Product-Color-Picker Custom-Widget/node_modules/@parcel/optimizer-htmlnano/node_modules/entities/lib/index.d.ts.map1670794637464211168 0
 148/home/mahmoud/Desktop/Python/HTML_CSS/Product-Color-Picker Custom-Widget/node_modules/@parcel/optimizer-htmlnano/node_modules/entities/lib/generated1670794637648208774 1
